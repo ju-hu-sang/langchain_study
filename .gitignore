@@ -1,9 +1,20 @@
+# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
+
+# env/secrets
 .env
 .env.*
-.DS_Store
-.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
 .vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
